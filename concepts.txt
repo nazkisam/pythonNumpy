@@ -1,0 +1,2 @@
+how to check the properties of an array
+.shape
