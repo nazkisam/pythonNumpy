@@ -1,2 +1,21 @@
 how to check the properties of an array
 .shape
+NDIM to check the number of dimentions
+dtype for data type of elements
+56:41
+
+
+indexing:- starts from zero ends at -1
+-> in one d array we use the index 
+-> in two d array we use the rows and cols
+slicing the array means to cut the subset of an array
+flatten and ravel 
+boolean masking
+
+Why do we need to modify the array?
+we need to add the new data points and remove the obsolute data etc
+
+np.insert() to insert the new element.
+
+
+
