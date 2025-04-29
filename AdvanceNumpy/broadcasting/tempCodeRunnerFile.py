@@ -1,0 +1,1 @@
+print(array_2d + vector_reshape)

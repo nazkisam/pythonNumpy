@@ -18,5 +18,15 @@ we need to add the new data points and remove the obsolute data etc
 np.insert() to insert the new element.
 
 4/28/2025, 8:59:34 PM 1:30:00
+Rowwise stacking and col wise stacking
+vstack and hstack
+hsplit
+vsplit works for 2d array
+
+vectorization:- applying the operation on an entire array at once. 100x faster than loops.
+
+learn list comprehension.
+
+broadcasting: matches expands smaller arrays to larger arrays and is faster than loops
 
 
