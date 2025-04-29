@@ -28,5 +28,10 @@ vectorization:- applying the operation on an entire array at once. 100x faster t
 learn list comprehension.
 
 broadcasting: matches expands smaller arrays to larger arrays and is faster than loops
+handling missing values.
+
+np.isnan() missing vals not a number.
+np.nan_to_num () to replace nan to num
+np.inf() to infinite values 
 
 
